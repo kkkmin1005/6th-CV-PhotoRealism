@@ -1,5 +1,5 @@
 ## PhotoRealism
-### 연예인 프레임을 사용자에 맞게 조정하여 보다 자연스러운 사진을 제공하는 프로젝트
+연예인 프레임을 사용자에 맞게 조정하여 보다 자연스러운 사진을 제공하는 프로젝트
 
 ## 주제 선정 동기
 ![image](https://github.com/user-attachments/assets/08bc181f-e770-4a65-8d53-d4b3a83858e1)
