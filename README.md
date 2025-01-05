@@ -26,15 +26,15 @@ https://github.com/user-attachments/assets/a0a12c94-0b93-49da-8821-c795baa2ac5c
 
 ## 기술 스택
 
-FrontEnd
+#### FrontEnd  
 ![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-3-blue?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=white)
 
-BackEnd
+#### BackEnd  
 ![Flask](https://img.shields.io/badge/Flask-2.0.0-black?logo=flask&logoColor=white)
 
-AI
+#### AI  
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0-EE4C2C?logo=pytorch&logoColor=white)
 
 ## 팀원
