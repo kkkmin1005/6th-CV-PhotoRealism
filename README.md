@@ -26,4 +26,21 @@ https://github.com/user-attachments/assets/a0a12c94-0b93-49da-8821-c795baa2ac5c
 
 ## 기술 스택
 
+FrontEnd
+![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-3-blue?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=white)
 
+BackEnd
+![Flask](https://img.shields.io/badge/Flask-2.0.0-black?logo=flask&logoColor=white)
+
+AI
+![PyTorch](https://img.shields.io/badge/PyTorch-2.0-EE4C2C?logo=pytorch&logoColor=white)
+
+## 팀원
+## Team
+|<img src="https://avatars.githubusercontent.com/u/114397640?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/134286859?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/165311253?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/175994952?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/160305407?v=4" width="150" height="150"/>|
+|:-:|:-:|:-:|:-:|:-:|
+|LEE CHAN<br/>[@olchan](https://github.com/olchan)|young<br/>[@youngyoung2345](https://github.com/youngyoung2345)|kangmin<br/>[@kkkmin1005](https://github.com/kkkmin1005)|sutngus<br/>[@sutngus](https://github.com/sutngus)|[@sjoon22](https://github.com/sjoon22)|
+
+<sub>[Table made by TIT](https://team-info-table.seondal.kr/)</sub>
