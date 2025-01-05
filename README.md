@@ -23,7 +23,7 @@
 ![image](https://github.com/user-attachments/assets/d60ef7f3-9194-4735-b73a-3058b145e912)
 
 ## 구현 영상
-![image](https://github.com/user-attachments/assets/a0a12c94-0b93-49da-8821-c795baa2ac5c)
+https://github.com/user-attachments/assets/a0a12c94-0b93-49da-8821-c795baa2ac5c
 
 ## 기술 스택
 
