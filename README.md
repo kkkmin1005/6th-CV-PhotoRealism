@@ -2,10 +2,9 @@
 ### 연예인 프레임을 사용자에 맞게 조정하여 보다 자연스러운 사진을 제공하는 프로젝트
 
 ## 주제 선정 동기
-최근 MZ세대를 중심으로 무인 사진관에서 연예인 프레임을 활용해 사진을 촬영하는 문화가 인기가 되고 있습니다.  
-사용자는 연예인 프레임에 맞춰 자연스러운 사진을 찍으려 하지만 만족스러운 결과를 얻기 어렵습니다.  
-따라서 좌우반전, 깊이조절, 색감조정을 이용해 자연스러운 사진을 얻고자 하였습니다.
-
+![image](https://github.com/user-attachments/assets/08bc181f-e770-4a65-8d53-d4b3a83858e1)
+![image](https://github.com/user-attachments/assets/a4817c4c-c54d-48b8-8f45-0cc834a70952)
+![image](https://github.com/user-attachments/assets/b0291a68-7e72-4708-b069-f8ecc9a85fa7)
 ## 주요 도전 과제
 ![image](https://github.com/user-attachments/assets/eada081b-e40b-4a2a-bf3b-119e0cf219ca)
 
